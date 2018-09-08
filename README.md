@@ -1,2 +1,2 @@
 # Lab4
-ITMO kek
+Just an ITMO SPL lab
